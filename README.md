@@ -1,4 +1,4 @@
-# Digit-Face-Classifier
+# Digit/Face-Classifier
 This project implements machine learning classifiers to recognize digits and faces from image data. Using Naive Bayes and Perceptron algorithms, the classifier is trained on feature-extracted data for accurate image classification.
 
 Features:
